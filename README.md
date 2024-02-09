@@ -15,6 +15,8 @@ Validation data: 4,118 instances\
 \
 ![Labels](https://github.com/Ajitesh-Tamirisa/Twitter_Financial_News_Classification/blob/main/Screenshots/Labels.png)\
 \
+![Dataset check](https://github.com/Ajitesh-Tamirisa/Twitter_Financial_News_Classification/blob/main/Screenshots/Data%20check.png)\
+\
 ![Data Preprocessing](https://github.com/Ajitesh-Tamirisa/Twitter_Financial_News_Classification/blob/main/Screenshots/Data%20Preprocessing.png)\
 \
 ![EDA - Common words](https://github.com/Ajitesh-Tamirisa/Twitter_Financial_News_Classification/blob/main/Screenshots/EDA%20-%20Common%20words.png)\
