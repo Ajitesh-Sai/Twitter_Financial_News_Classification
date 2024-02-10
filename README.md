@@ -3,7 +3,7 @@
 \
 <a href="https://docs.google.com/presentation/d/16AKM1C9NJrQiDGkdbcLuoBMFS80jDyJDziMdlN_q560/edit?usp=sharing" target="_blank">Project Presentation</a>\
 \
-<a href="https://colab.research.google.com/github/Ajitesh-Tamirisa/Twitter_Financial_News_Classification/blob/main/Twitter_Financial_Data_Classification.ipynb" target="_blank">Collab notebook</a>\
+<a href="https://colab.research.google.com/github/Ajitesh-Tamirisa/Twitter_Financial_News_Classification/blob/main/Twitter_Financial_News_Classification.ipynb" target="_blank">Collab notebook</a>\
 \
 Data size-\
 Training data: 16,990 instances\
